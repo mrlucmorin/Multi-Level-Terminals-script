@@ -1,0 +1,10 @@
+Use this script to quickly reorder multi-level terminals (MLTs) in Eplan P8.
+
+Install in P8 by going to "Utilities/Scripts/Load" and browse to the script's location.
+
+Once loaded, it will add two new menus under "Utilities": 
+
+-Set Sort Code
+-Reset Sort Code
+
+Plase see http://www.youtube.com/watch?v=hlBHK4pGKzY for an example of how to use it.
